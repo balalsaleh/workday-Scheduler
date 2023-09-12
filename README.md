@@ -10,4 +10,4 @@ Enter text into the hourly planner, then press the save button to ensure your en
 
 ![work-day-planner](./assets/images/example.png)
 
-Deployed link:
+Deployed link: https://balalsaleh.github.io/workday-Scheduler/
